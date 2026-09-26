@@ -1,208 +1,385 @@
 
-<!--
-  GitHub Profile README
-  Replace the placeholder links and username before publishing.
--->
+<!-- =========================================================
+     GITHUB PROFILE README — ABIYA S
+     Replace YOUR_GITHUB_USERNAME and social link placeholders.
+========================================================== -->
 
-<h1 align="center">Hi 👋, I'm Abiya S</h1>
-
-<h3 align="center">
-  Senior Software Developer | Full-Stack Developer
-</h3>
-
+<!-- Animated Gradient Header -->
 <p align="center">
-  Building scalable SaaS applications and education technology
-  solutions with modern web technologies.
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4338ca,100:06b6d4&height=230&section=header&text=Abiya%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+    width="100%"
+    alt="Abiya S - Senior Software Developer"
+  />
 </p>
 
+<!-- Animated Typing Introduction -->
 <p align="center">
-  📍 Nagercoil, Tamil Nadu, India
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Senior+Software+Developer;Full-Stack+Web+Developer;SaaS+%26+EdTech+Developer;Building+Scalable+Web+Applications"
+    alt="Animated developer introduction"
+  />
 </p>
 
+<!-- Social Links -->
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  <a href="YOUR_LINKEDIN_URL">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
   <a href="mailto:abiyaraj7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img
+      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+<!-- About Me -->
+<h2 align="center">👨‍💻 About Me</h2>
 
-I'm a Senior Software Developer specializing in
-full-stack web development, SaaS applications, and
-education technology platforms.
-
-I work with modern JavaScript frameworks and PHP-based
-backend systems to build scalable, maintainable,
-and user-friendly applications.
-
-- 🚀 Developing SaaS-based Learning Management Systems
-- 🎓 Building school and college management solutions
-- 👥 Leading a frontend team of 4 developers
-- 🔗 Working on REST API integrations and payment gateway testing
-- 🛠️ Experienced with PHP and CodeIgniter 3 & 4
-- 📚 Published a research article on image processing
-- 💡 Interested in scalable architecture and continuous learning
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<p align="center">
+  I'm a <b>Senior Software Developer</b> specializing in
+  full-stack web development, SaaS applications, and
+  education technology platforms.
 </p>
 
-### Backend & APIs
-
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/CodeIgniter-EE4623?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" alt="REST APIs" />
+<p align="center">
+  I build scalable, maintainable, and user-friendly
+  applications using modern JavaScript frameworks and
+  PHP-based backend technologies.
 </p>
 
-### Tools & Workflow
+<br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🎓 Learning Management System (LMS)
-
-A SaaS-based learning platform designed to support
-digital education and user engagement.
-
-- Developed frontend features using Next.js and React
-- Integrated PHP APIs for backend communication
-- Focused on scalable frontend architecture
-- Worked with GitHub-based deployment workflows
-
-**Technologies:** Next.js, React, PHP, REST APIs
-
-### 🏫 School & College Management System
-
-A management platform supporting educational
-institutions, including school and college workflows.
-
-- Developed modules using PHP and CodeIgniter
-- Built dynamic content management features
-- Integrated APIs across application modules
-- Worked with Jenkins deployment workflows
-
-**Technologies:** PHP, CodeIgniter, JavaScript, REST APIs
-
-### 📚 Digital Library
-
-A digital library application focused on dynamic
-content management and backend functionality.
-
-- Developed using CodeIgniter 3
-- Implemented API integrations
-- Worked on scalable backend architecture
-
-**Technologies:** PHP, CodeIgniter 3, REST APIs
-
-### 🏢 HR & Administration
-
-An HR and administration solution built to support
-organizational management workflows.
-
-- Developed backend and application modules
-- Integrated APIs
-- Worked with CodeIgniter 4 and Jenkins deployment
-
-**Technologies:** PHP, CodeIgniter 4, REST APIs
-
-### ⏱️ Trackup
-
-An employee task-tracking system designed to monitor
-daily activities and time spent on tasks.
-
-- Developed user-friendly interfaces
-- Worked with JavaScript-based functionality
-- Supported employee task and time tracking workflows
-
-**Technologies:** JavaScript
+<table align="center">
+  <tr>
+    <td>🚀</td>
+    <td>Developing SaaS-based Learning Management Systems</td>
+  </tr>
+  <tr>
+    <td>🎓</td>
+    <td>Building school and college management solutions</td>
+  </tr>
+  <tr>
+    <td>👥</td>
+    <td>Leading a frontend team of 4 developers</td>
+  </tr>
+  <tr>
+    <td>🔗</td>
+    <td>Working with REST APIs and application integrations</td>
+  </tr>
+  <tr>
+    <td>🛠️</td>
+    <td>Experienced in PHP and CodeIgniter 3 &amp; 4</td>
+  </tr>
+  <tr>
+    <td>📚</td>
+    <td>Published research in image processing</td>
+  </tr>
+  <tr>
+    <td>💡</td>
+    <td>Interested in scalable architecture and continuous learning</td>
+  </tr>
+</table>
 
 ---
 
-## 🏆 Achievements
+<!-- Technology Stack -->
+<h2 align="center">⚡ Tech Stack</h2>
 
-- 👥 Leading a frontend team of 4 members
-- 🔍 Managing code reviews, task allocation, and delivery
-- 📖 Published a research article in AEM:
-  *"Catastrophe Prevention in Highly Industrialized
-  Areas Using Image Processing"*
-- 🎓 Master's and Bachelor's degrees in Computer Science
-
----
-
-## 📊 GitHub Statistics
-
-<!-- Replace YOUR_GITHUB_USERNAME with your username -->
+<h3 align="center">🎨 Frontend Development</h3>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Statistics"
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,jquery,bootstrap"
+    alt="HTML CSS JavaScript TypeScript React Next.js jQuery Bootstrap"
+  />
+</p>
+
+<h3 align="center">⚙️ Backend Development</h3>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=php,nodejs,express"
+    alt="PHP Node.js Express"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
+    src="https://img.shields.io/badge/CodeIgniter_3_&_4-EE4623?style=for-the-badge&logo=codeigniter&logoColor=white"
+    alt="CodeIgniter 3 and 4"
+  />
+  <img
+    src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white"
+    alt="REST APIs"
+  />
+</p>
+
+<h3 align="center">🗄️ Database</h3>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=mysql,mongodb"
+    alt="MySQL and MongoDB"
+  />
+</p>
+
+<h3 align="center">🔧 Tools &amp; DevOps</h3>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=git,github,gitlab,linux,docker,jenkins,vscode"
+    alt="Git GitHub GitLab Linux Docker Jenkins VS Code"
+  />
+</p>
+
+---
+
+<!-- Professional Focus -->
+<h2 align="center">💼 What I Do</h2>
+
+<table align="center">
+  <tr>
+    <th>Area</th>
+    <th>Experience</th>
+  </tr>
+  <tr>
+    <td>Full-Stack Development</td>
+    <td>React, Next.js, PHP, CodeIgniter</td>
+  </tr>
+  <tr>
+    <td>SaaS Applications</td>
+    <td>Multi-module education platforms</td>
+  </tr>
+  <tr>
+    <td>API Integration</td>
+    <td>REST APIs and backend communication</td>
+  </tr>
+  <tr>
+    <td>Team Leadership</td>
+    <td>Task allocation, code reviews, delivery</td>
+  </tr>
+  <tr>
+    <td>Deployment Workflow</td>
+    <td>Git-based workflows and Jenkins</td>
+  </tr>
+</table>
+
+---
+
+<!-- Featured Projects -->
+<h2 align="center">🚀 Featured Projects</h2>
+
+<!-- Project 1 -->
+<h3>🎓 Learning Management System (LMS)</h3>
+
+<p>
+  A SaaS-based learning platform supporting digital
+  education, course delivery, and learner engagement.
+</p>
+
+<ul>
+  <li>Developing frontend features with Next.js and React</li>
+  <li>Integrating PHP APIs with frontend applications</li>
+  <li>Building maintainable and reusable UI components</li>
+  <li>Working with modern web application workflows</li>
+</ul>
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" alt="React"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php" alt="PHP"/>
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square" alt="REST API"/>
+</p>
+
+<!-- Project 2 -->
+<h3>🏫 School &amp; College Management System (SIMS)</h3>
+
+<p>
+  An educational management platform supporting
+  school and college administration, student management,
+  academic workflows, and institutional operations.
+</p>
+
+<ul>
+  <li>Developing modules using PHP and CodeIgniter</li>
+  <li>Working with MySQL database queries and integrations</li>
+  <li>Implementing academic and student-management workflows</li>
+  <li>Maintaining APIs and application functionality</li>
+</ul>
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php" alt="PHP"/>
+  <img src="https://img.shields.io/badge/CodeIgniter-EE4623?style=flat-square&logo=codeigniter" alt="CodeIgniter"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript" alt="JavaScript"/>
+</p>
+
+<!-- Project 3 -->
+<h3>📚 Digital Library</h3>
+
+<p>
+  A digital library application focused on content
+  management and backend functionality.
+</p>
+
+<ul>
+  <li>Developed using CodeIgniter 3</li>
+  <li>Worked on backend features and API integrations</li>
+  <li>Supported application maintenance and improvements</li>
+</ul>
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php" alt="PHP"/>
+  <img src="https://img.shields.io/badge/CodeIgniter-EE4623?style=flat-square&logo=codeigniter" alt="CodeIgniter"/>
+</p>
+
+<!-- Project 4 -->
+<h3>🏢 HR &amp; Administration</h3>
+
+<p>
+  An HR and administration solution supporting
+  organizational management workflows.
+</p>
+
+<ul>
+  <li>Developed application modules using CodeIgniter 4</li>
+  <li>Integrated backend APIs</li>
+  <li>Worked with deployment and maintenance workflows</li>
+</ul>
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php" alt="PHP"/>
+  <img src="https://img.shields.io/badge/CodeIgniter-EE4623?style=flat-square&logo=codeigniter" alt="CodeIgniter"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins" alt="Jenkins"/>
+</p>
+
+<!-- Project 5 -->
+<h3>⏱️ Trackup</h3>
+
+<p>
+  An employee task and time-tracking system designed
+  to help manage work activities and time entries.
+</p>
+
+<ul>
+  <li>Worked on task and time-tracking functionality</li>
+  <li>Developed JavaScript-based application features</li>
+  <li>Supported workflow and application improvements</li>
+</ul>
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php" alt="PHP"/>
+</p>
+
+---
+
+<!-- GitHub Statistics -->
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8"
+    alt="GitHub statistics"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8"
+    alt="Most used programming languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
+    width="70%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8"
+    alt="GitHub contribution streak"
   />
 </p>
 
 ---
 
-## 🌱 Currently Learning
-
-Exploring modern web development practices,
-scalable application architecture, and emerging
-technologies to build better software solutions.
-
----
-
-## 📫 Connect With Me
-
-- **Email:** [abiyaraj7@gmail.com](mailto:abiyaraj7@gmail.com)
-- **LinkedIn:** [Add your LinkedIn profile](YOUR_LINKEDIN_URL)
-- **GitHub:** [Visit my GitHub](https://github.com/YOUR_GITHUB_USERNAME)
-- **Portfolio:** [Visit my portfolio](YOUR_PORTFOLIO_URL)
-
----
+<!-- Animated Contribution Graph -->
+<h2 align="center">🐍 Contribution Activity</h2>
 
 <p align="center">
-  <i>Building useful software, solving problems,
-  and learning something new every day.</i>
+  <img
+    src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"
+    alt="Animated GitHub contribution snake"
+    width="100%"
+  />
+</p>
+
+<!-- Achievements -->
+<h2 align="center">🏆 Achievements</h2>
+
+<p align="center">
+  👥 Frontend team leadership<br/>
+  🔍 Code reviews and task coordination<br/>
+  📖 Published research in image processing<br/>
+  🎓 Master's and Bachelor's degrees in Computer Science
+</p>
+
+---
+
+<!-- Currently Learning -->
+<h2 align="center">🌱 Currently Learning</h2>
+
+<p align="center">
+  TypeScript · Next.js · Node.js · AI Integrations
+</p>
+
+<p align="center">
+  Exploring modern application architecture,
+  AI-powered solutions, and scalable software systems.
+</p>
+
+---
+
+<!-- Contact -->
+<h2 align="center">🤝 Let's Connect</h2>
+
+<p align="center">
+  I'm always interested in connecting with developers,
+  collaborating on ideas, and exploring new technologies.
+</p>
+
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:abiyaraj7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>"Building useful software, solving problems,
+  and learning something new every day."</i>
+</p>
+
+<!-- Animated Footer -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:4338ca,100:0f172a&height=130&section=footer"
+    width="100%"
+    alt="Animated gradient footer"
+  />
 </p>
